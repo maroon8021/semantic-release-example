@@ -11,5 +11,6 @@ module.exports = {
       },
     ],
   ],
+  publish: "@semantic-release/npm",
   npmPublish: false,
 };
