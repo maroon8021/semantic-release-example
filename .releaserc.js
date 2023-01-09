@@ -15,5 +15,4 @@ module.exports = {
   // publishのdisabledするために下記の設定が必要
   publish: "@semantic-release/npm",
   npmPublish: false,
-  prepare: "@semantic-release/git",
 };
