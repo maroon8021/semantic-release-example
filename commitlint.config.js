@@ -13,7 +13,8 @@ module.exports = {
         "refactor",
         "test",
         "revert",
-        "pref",
+        "perf",
+        "mfeat",
         // "BREAKING CHANGE", うまく動かん
       ],
     ],
