@@ -15,6 +15,7 @@ module.exports = {
         "revert",
         "perf",
         "mfeat",
+        "chore",
         // "BREAKING CHANGE", うまく動かん
       ],
     ],
